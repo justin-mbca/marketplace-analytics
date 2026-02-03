@@ -1,0 +1,6 @@
+campaign_id,campaign_name,start_date,end_date,county,target_group,contacts_made,enrollments_generated,cost_per_enrollment
+1,Winter Awareness,2024-01-15,2024-02-15,Cumberland,Young Adults,2500,380,425
+1,Winter Awareness,2024-01-15,2024-02-15,Penobscot,Young Adults,1800,240,550
+2,Spanish Language,2024-02-01,2024-03-01,Cumberland,Hispanic,1200,210,380
+2,Spanish Language,2024-02-01,2024-03-01,York,Hispanic,900,150,420
+3,Disability Focus,2024-02-15,2024-03-15,All,Disability,3500,520,310

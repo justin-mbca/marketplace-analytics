@@ -1,0 +1,6 @@
+report_name,due_date,status,last_submitted,data_quality_score,requirements
+CMS Monthly Enrollment,2024-03-05,Submitted,2024-03-03,98,Required
+CCIIO Quarterly,2024-03-15,In Progress,2024-01-10,95,Required
+State Legislature Annual,2024-04-01,Not Started,2023-04-01,NA,Required
+Internal Operations Monthly,2024-03-10,Submitted,2024-03-08,99,Optional
+Federal Marketplace Alignment,2024-03-20,Not Started,2023-12-15,92,Required

@@ -1,0 +1,19 @@
+date,category,metric,value,target,unit
+2024-01,Application,Completion Rate,78,85,%
+2024-01,Application,Average Time,22,15,minutes
+2024-01,Support,Calls per Enrollment,0.8,0.5,ratio
+2024-01,Support,Call Resolution Rate,92,95,%
+2024-01,Digital,Website Visits,45000,50000,count
+2024-01,Digital,Form Abandonment,12,10,%
+2024-02,Application,Completion Rate,80,85,%
+2024-02,Application,Average Time,21,15,minutes
+2024-02,Support,Calls per Enrollment,0.7,0.5,ratio
+2024-02,Support,Call Resolution Rate,93,95,%
+2024-02,Digital,Website Visits,47000,50000,count
+2024-02,Digital,Form Abandonment,11,10,%
+2024-03,Application,Completion Rate,82,85,%
+2024-03,Application,Average Time,20,15,minutes
+2024-03,Support,Calls per Enrollment,0.6,0.5,ratio
+2024-03,Support,Call Resolution Rate,94,95,%
+2024-03,Digital,Website Visits,49000,50000,count
+2024-03,Digital,Form Abandonment,10.5,10,%

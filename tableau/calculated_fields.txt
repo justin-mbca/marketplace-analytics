@@ -1,0 +1,19 @@
+# Tableau calculated fields
+
+1. Coverage Rate
+```
+SUM([Enrollment Count]) / SUM([Eligible Population])
+```
+
+2. Assistance Rate
+```
+AVG([Assistance Avg]) / NULLIF(AVG([Premium Avg]), 0)
+```
+
+3. Disparity Index
+```
+(SUM([Enrollment Count]) / SUM([Eligible Population]))
+/
+WINDOW_SUM(SUM([Enrollment Count])) / WINDOW_SUM(SUM([Eligible Population]))
+- 1
+```

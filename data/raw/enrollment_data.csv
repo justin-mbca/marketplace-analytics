@@ -1,0 +1,16 @@
+month,county,age_group,income_bracket,plan_tier,enrollment_count,premium_avg,assistance_avg,disability_flag,race_ethnicity
+2024-01,Cumberland,18-34,<200% FPL,Bronze,1250,285,245,No,White
+2024-01,Cumberland,35-49,200-400% FPL,Silver,890,320,180,Yes,White
+2024-01,Cumberland,50-64,>400% FPL,Gold,540,450,0,No,Black
+2024-01,Penobscot,18-34,<200% FPL,Bronze,980,290,250,No,Hispanic
+2024-01,Penobscot,35-49,200-400% FPL,Silver,720,315,175,Yes,White
+2024-02,Cumberland,18-34,<200% FPL,Bronze,1300,285,245,No,White
+2024-02,Cumberland,35-49,200-400% FPL,Silver,920,320,180,Yes,Black
+2024-02,Cumberland,50-64,>400% FPL,Gold,560,450,0,No,Hispanic
+2024-02,Penobscot,18-34,<200% FPL,Bronze,1010,290,250,No,White
+2024-02,Penobscot,35-49,200-400% FPL,Silver,740,315,175,Yes,Hispanic
+2024-03,Cumberland,18-34,<200% FPL,Bronze,1350,285,245,Yes,White
+2024-03,Cumberland,35-49,200-400% FPL,Silver,950,320,180,No,Black
+2024-03,Cumberland,50-64,>400% FPL,Gold,580,450,0,No,Hispanic
+2024-03,Penobscot,18-34,<200% FPL,Bronze,1040,290,250,No,White
+2024-03,Penobscot,35-49,200-400% FPL,Silver,760,315,175,Yes,Hispanic
