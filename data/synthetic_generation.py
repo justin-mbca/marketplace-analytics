@@ -39,9 +39,27 @@ def generate_enrollment_data() -> pd.DataFrame:
 	return pd.DataFrame(rows)
 
 
+def update_raw_enrollment_data(raw_path: Path) -> None:
+	"""Append eligible_population to the raw enrollment CSV."""
+	if not raw_path.exists():
+		raise FileNotFoundError(f"Raw enrollment file not found: {raw_path}")
+
+	df = pd.read_csv(raw_path)
+	if "eligible_population" not in df.columns:
+		df.insert(
+			loc=df.columns.get_loc("enrollment_count") + 1,
+			column="eligible_population",
+			value=(df["enrollment_count"] * 4).astype(int),
+		)
+		df.to_csv(raw_path, index=False)
+
+
 def main() -> None:
 	output_path = Path(__file__).resolve().parents[1] / "data" / "processed" / "enrollment_analysis.csv"
 	output_path.parent.mkdir(parents=True, exist_ok=True)
+
+	raw_path = Path(__file__).resolve().parents[1] / "data" / "raw" / "enrollment_data.csv"
+	update_raw_enrollment_data(raw_path)
 
 	df = generate_enrollment_data()
 	df.to_csv(output_path, index=False)

@@ -29,6 +29,9 @@ maine-marketplace-analytics/
 - **Healthcare Analytics** (enrollment, coverage metrics)
 - **Documentation & Reproducibility**
 
+## Data Documentation
+See [DATA_DICTIONARY.md](DATA_DICTIONARY.md) for complete column definitions and KPI formulas.
+
 ## Setup & Usage
 1. Generate sample data: `python data/synthetic_generation.py`
 2. Run the ETL pipeline: `python scripts/etl_pipeline.py`
