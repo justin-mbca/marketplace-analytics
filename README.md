@@ -24,7 +24,8 @@ Comprehensive healthcare analytics portfolio demonstrating end-to-end data pipel
 ### Power BI Report (5 Pages)
 **Platform**: Power BI Service (Microsoft Fabric)  
 **Data Source**: GitHub CSV → Power BI Dataflow Gen2 → Semantic Model → Report  
-**Link**: https://app.powerbi.com/groups/b2e957bd-e2b4-43d1-9b5c-8cb379b9831b/reports/9302dd03-cfbe-4a02-b1aa-232f671a7331/08b9033697f6e0551a41?redirectedFromSignup=1&experience=power-bi
+**Link**: https://app.powerbi.com/groups/b2e957bd-e2b4-43d1-9b5c-8cb379b9831b/reports/9302dd03-cfbe-4a02-b1aa-232f671a7331/08b9033697f6e0551a41?redirectedFromSignup=1&experience=power-bi  
+**PDF Extract**: [Marketplace Analytics Report.pdf](./Marketplace%20Analytics%20Report.pdf)
 
 #### Page 1: Executive Summary ✅ **COMPLETE**
 **8 Visualizations**:
