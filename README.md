@@ -1,4 +1,4 @@
-# Maine Health Insurance Marketplace Analytics
+# Health Insurance Marketplace Analytics
 
 ## Overview
 Comprehensive healthcare analytics portfolio demonstrating end-to-end data pipeline, semantic modeling, and multi-platform BI implementation. Features a 5-page Power BI report analyzing Maine CoverME.gov marketplace enrollment, equity, consumer experience, and regulatory compliance.
