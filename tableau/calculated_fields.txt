@@ -17,3 +17,8 @@ AVG([Assistance Avg]) / NULLIF(AVG([Premium Avg]), 0)
 WINDOW_SUM(SUM([Enrollment Count])) / WINDOW_SUM(SUM([Eligible Population]))
 - 1
 ```
+
+4. Executive Summary KPIs (used on Tableau dashboard)
+- Total Enrollments: SUM([Enrollment Count])
+- Coverage Rate KPI: SUM([Enrollment Count]) / SUM([Eligible Population])
+- Assistance Rate: AVG([Assistance Avg]) / NULLIF(AVG([Premium Avg]), 0)

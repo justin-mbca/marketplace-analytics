@@ -1,5 +1,21 @@
 # Maine Marketplace Analytics Documentation
 
+## Tableau Executive Summary ✅
+**Status**: Executive Summary dashboard + story completed
+
+**Story Highlights**:
+1. Maine’s enrollment grew from Jan–Mar 2024
+2. Cumberland County leads enrollment volume
+3. Income-based disparities show measurable gaps across groups
+4. Assistance rate indicates subsidy effectiveness
+
+**Dashboard Components**:
+- KPI cards: Total Enrollments, Coverage Rate KPI, Assistance Rate, Disparity Index
+- County map (color by uninsured rate, size by population)
+- Enrollment trend (stacked by plan tier)
+- Demographic breakdowns: Age Groups, Income Brackets, Race/Ethnicity
+- Filters: County, Plan Tier
+
 ## Data Sources
 - Synthetic enrollment data (simulating CoverME.gov)
 - Maine county demographics (public data)

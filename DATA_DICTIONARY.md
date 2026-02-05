@@ -1,5 +1,8 @@
 # Data Dictionary
 
+## Synthetic Data Notes
+All tables in this repository are **synthetic** datasets created for portfolio and demonstration purposes. Values are simulated to reflect realistic enrollment behavior (seasonal growth, demographic segmentation, eligibility vs enrollment) without using any real marketplace or personal data.
+
 ## enrollment_data.csv
 
 ### Columns
