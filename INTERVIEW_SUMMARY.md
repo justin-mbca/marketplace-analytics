@@ -88,10 +88,10 @@ All datasets are **synthetic** (simulated for portfolio purposes) and designed t
 - `assistance_avg`: Average financial assistance ($)
 
 ### Supporting Datasets
-1. **county_demographics.csv** - Population, uninsured rates, poverty rates
-2. **consumer_metrics.csv** - Application journey, support metrics
-3. **outreach_campaigns.csv** - Campaign performance, ROI
-4. **regulatory_reporting.csv** - Compliance tracking, submission timeline
+1. [**county_demographics.csv**](data/raw/county_demographics.csv) - Population, uninsured rates, poverty rates
+2. [**consumer_metrics.csv**](data/raw/consumer_metrics.csv) - Application journey, support metrics
+3. [**outreach_campaigns.csv**](data/raw/outreach_campaigns.csv) - Campaign performance, ROI
+4. [**regulatory_reporting.csv**](data/raw/regulatory_reporting.csv) - Compliance tracking, submission timeline
 
 ---
 
