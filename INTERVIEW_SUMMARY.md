@@ -155,6 +155,33 @@ All datasets are **synthetic** (simulated for portfolio purposes) and designed t
 
 ---
 
+## 🔄 Platform Strategy: Why Both Tableau and Power BI?
+
+Both dashboards use the **same underlying data** (enrollment_data.csv + supporting datasets) but leverage each platform's unique strengths:
+
+### Tableau Executive Summary
+**Optimized for**: Exploratory analysis, storytelling, stakeholder presentations
+- **Story Format**: 4 narrative insights guide decision-makers through key findings
+- **Visual Flexibility**: Custom maps, trend lines, demographic breakdowns
+- **Public Sharing**: Tableau Public enables unrestricted portfolio access
+- **Best For**: Board presentations, public-facing reports, data exploration
+
+### Power BI Executive Summary
+**Optimized for**: Enterprise reporting, Microsoft ecosystem integration, governance
+- **Report Format**: Multi-page dashboard structure with drill-through capabilities
+- **DAX Measures**: Reusable calculations, centralized metric definitions
+- **Power BI Service**: Secure sharing, scheduled refreshes, row-level security
+- **Best For**: Internal operations, CMS reporting, automated data pipelines
+
+### Strategic Rationale
+Building dual-platform dashboards demonstrates:
+1. **Platform Versatility**: Proficiency in both industry-leading tools
+2. **Right Tool Selection**: Understanding when to use Tableau vs Power BI based on use case
+3. **Audience Optimization**: Tableau for executives/storytelling, Power BI for operations/automation
+4. **Future Flexibility**: Maine DHHS can leverage either platform based on organizational needs
+
+---
+
 ## 🎓 Alignment with OHIM Role Requirements
 
 | JD Requirement | Portfolio Evidence |
